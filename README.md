@@ -7,7 +7,3 @@
 ・ TypORM<br>
 ・ Jest<br>
 ・ InversifyJS<br>
-
-
-
-
